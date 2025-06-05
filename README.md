@@ -12,6 +12,8 @@ Querying and Exporting: Writing SQL queries to explore trends in player longevit
 
 Analysis in Excel: Fitting polynomial models to visualize and interpret trends in statistics like points, assists, rebounds, minutes, and more as a function of a player’s years in the league.
 
+Visualization and Dasboarding in Tableau: Creating visually appealing and interactive charts in Tabluau. Put all relevant charts into a single dashboard that is easy to read with key insights accompanying every visualization.
+
 ### Key insights include:
 
 Centers tend to have longer average careers than guards and forwards.
@@ -22,5 +24,6 @@ Guards generally play more minutes and have higher scoring and assist metrics, b
 
 
 ## For a more in depth analysis covering all the data steps, results, conclusion, limitations, and future possibilities, look into the pdf report in this repository.
+## Although the dashboard image is provided in this repository, visit this link at (Tableau Public)[https://public.tableau.com/app/profile/colton.difranco/viz/NBACareerTrajectories/Dashboard] for an interactive version of the dashboard.
 
-### Major SQL queries, visualizations, and summary data are included. This project demonstrates data cleaning, relational database manipulation, and data analysis skills using real-world sports data.
+### Major SQL queries, visualizations, dashboard, and summary data are included. This project demonstrates data cleaning, relational database manipulation, data analysis skills, and reporting using real-world sports data.
