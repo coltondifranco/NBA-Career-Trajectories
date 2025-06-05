@@ -24,6 +24,6 @@ Guards generally play more minutes and have higher scoring and assist metrics, b
 
 
 ## For a more in depth analysis covering all the data steps, results, conclusion, limitations, and future possibilities, look into the pdf report in this repository.
-## Although the dashboard image is provided in this repository, visit this link at (Tableau Public)[https://public.tableau.com/app/profile/colton.difranco/viz/NBACareerTrajectories/Dashboard] for an interactive version of the dashboard.
+## Although the dashboard image is provided in this repository, visit this link at [Tableau Public](https://public.tableau.com/app/profile/colton.difranco/viz/NBACareerTrajectories/Dashboard) for an interactive version of the dashboard.
 
 ### Major SQL queries, visualizations, dashboard, and summary data are included. This project demonstrates data cleaning, relational database manipulation, data analysis skills, and reporting using real-world sports data.
